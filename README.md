@@ -1,1 +1,1 @@
-# Dimension_Reduction_Using_Principal_Component_Analysis_and_Linear-Discriminant_Analaysis
+# Dimension_Reduction_Using_Principal_Component_Analysis_and_Linear_Discriminant_Analaysis
