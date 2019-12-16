@@ -8,7 +8,7 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
 
 
 #dataset directory location
-datasets_dir ="F:\ASU Sem 1\FSL\hw2"
+datasets_dir =""
 
 def one_hot(x, n):
     if type(x) == list:
